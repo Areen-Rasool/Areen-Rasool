@@ -5,7 +5,7 @@
 
 🧬 Currently working on developing efficient and reliable Graph Neural Network (GNN) models for biomedical applications in drug discovery
 
-📫 Reach me at: 
+📫 Reach me at: **areen_rasool_22@sms.edu.pk**
 <p align="center">
 
   <a href="https://www.linkedin.com/in/areen-rasool-57586b1b4/">
