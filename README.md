@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Areen%20Rasool-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+
 ## 👩‍💻 About Me
 
 🎓 PhD Researcher in Computational Mathematics and AI  
