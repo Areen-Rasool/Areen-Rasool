@@ -25,21 +25,5 @@
 <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,anaconda,vscode,github" />
 </p>
 
----
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Areen-Rasool&show_icons=true&theme=tokyonight" />
-</p>
-
-
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areen-Rasool&layout=compact&theme=tokyonight" />
-</p>
 
 ---
-
-⭐ Exploring AI for Scientific Discovery and Computational Drug Discovery
