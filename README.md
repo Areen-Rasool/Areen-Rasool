@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Areen Rasool</h1>
-<h3 align="center">Computational Researcher | Graph Neural Networks | Drug Discovery</h3>
-
 <p align="center">
   <a href="https://orcid.org/0009-0005-0915-1168">
     <img src="https://img.shields.io/badge/ORCID-0009--0005--0915--1168-green?style=for-the-badge&logo=orcid">
   </a>
+
+  <a href="https://www.linkedin.com/in/areen-rasool-57586b1b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Areen%20Rasool-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
-
----
-
 ## 👩‍💻 About Me
 
 🎓 PhD Researcher in Computational Mathematics and AI  
