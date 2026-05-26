@@ -22,7 +22,7 @@
 ## 🚀 Some Tools I Have Used and Learned :
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,linux,matlab,anaconda" />
 </p>
 
 ---
