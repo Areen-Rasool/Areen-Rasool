@@ -7,6 +7,18 @@
 
 📫 Reach me at:  **areen_rasool_22@sms.edu.pk**
 
+📫 Reach me at:
+
+<p align="center">
+  <a href="mailto:areen_rasool_22@sms.edu.pk">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
 ---
 ### 🚀 Some Tools I Have Used and Learned:
 
