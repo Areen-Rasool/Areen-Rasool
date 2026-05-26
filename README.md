@@ -7,8 +7,6 @@
 
 📫 Reach me at:
 
-
-
 <p align="center">
   
   <a href="mailto:areen_rasool_22@sms.edu.pk">
@@ -21,6 +19,7 @@
 
 </p>
 
+---
 ### 🚀 Some Tools I Have Used and Learned:
 
 <p align="left">
