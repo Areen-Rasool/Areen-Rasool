@@ -1,4 +1,3 @@
-<img src="your-animation.gif" width="480" height="360">
 
 ## 👩‍💻 About Me
 
