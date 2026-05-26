@@ -7,21 +7,11 @@
 
 📫 Reach me at:
 
-<p align="center">
-  <a href="https://orcid.org/0009-0005-0915-1168">
-    <img src="https://img.shields.io/badge/ORCID-0009--0005--0915--1168-green?style=for-the-badge&logo=orcid">
-  </a>
 
-  <a href="https://www.linkedin.com/in/areen-rasool-57586b1b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Areen%20Rasool-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
 
 <p align="center">
   
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:areen_rasool_22@sms.edu.pk">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
 
