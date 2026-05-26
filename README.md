@@ -3,7 +3,7 @@
 
 🎓 PhD Researcher in Computational Mathematics and Artificial Intelligence  
 
-🧬 Currently working on developing efficient and reliable Graph Neural Network (GNN) models for biomedical applications in drug discovery
+🧬 Developing efficient and reliable Graph Neural Network models for biomedical applications in drug discovery
 
 📫 Reach me at:  **areen_rasool_22@sms.edu.pk**
 
