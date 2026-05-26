@@ -10,6 +10,10 @@
 <p align="center">
 
   <a href="mailto:areen_rasool_22@sms.edu.pk">
+    <img src="https://img.shields.io/badge/Email-areen__rasool__22@sms.edu.pk-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="mailto:areen_rasool_22@sms.edu.pk">
     📧 areen_rasool_22@sms.edu.pk
   </a>
 
@@ -20,7 +24,7 @@
   </a>
 
 </p>
-
+  
 ---
 ### 🚀 Some Tools I Have Used and Learned:
 
