@@ -32,9 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Areen-Rasool&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areen-Rasool&theme=tokyonight" />
-</p>
 
 
 ## 📈 Most Used Languages
