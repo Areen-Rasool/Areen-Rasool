@@ -5,8 +5,6 @@
 
 🧬 Developing efficient and reliable Graph Neural Network models for biomedical applications in drug discovery
 
-📫 Reach me at:  **areen_rasool_22@sms.edu.pk**
-
 📫 Reach me at:
 
 <p align="center">
