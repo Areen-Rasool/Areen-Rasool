@@ -22,9 +22,8 @@
 ## 🚀 Some Tools I Have Used and Learned :
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,vscode,linux,matlab,anaconda" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,matlab,anaconda,vscode,github" />
 </p>
-
 ---
 
 ## 🔥 GitHub Stats
