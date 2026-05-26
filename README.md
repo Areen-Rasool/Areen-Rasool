@@ -2,11 +2,7 @@
 
 🎓 PhD Researcher in Computational Mathematics and Artificial Intelligence  
 
-🧬 Currently working on developing efficient and reliable Graph Neural Network (GNN) models for biomedical applications in drug discovery, with a particular focus on:
-- Compound–Protein Interaction Prediction
-- Molecular Property Prediction
-- Geometric Deep Learning
-- Efficient AI Models and Optimization Techniques
+🧬 Currently working on developing efficient and reliable Graph Neural Network (GNN) models for biomedical applications in drug discovery
 
 📫 Reach me at:
 
