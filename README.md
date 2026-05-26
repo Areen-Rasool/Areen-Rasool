@@ -18,36 +18,12 @@
 
 ---
 
-## 📚 Publications
 
-### 🧬 DeepHybridCPI
-Hybrid Deep Learning Framework for Compound–Protein Interaction Prediction  
-📖 *Journal of Molecular Graphics and Modelling (2026)*
-
-### ⚡ Optimizers in MPNNs
-Comprehensive Analysis of Optimizers in Message Passing Neural Networks  
-📖 *Computational Biology and Chemistry (2025)*
-
-### 🧠 p-GIN
-Graph Isomorphism Network based on p-Laplacian Operator  
-📖 *Discover Applied Sciences (2025)*
-
-### 🚀 Quantized GNNs
-Efficient Molecular Property Prediction using Quantized GNN Models
-
----
-
-## 🚀 Tools & Technologies
+## 🚀 Some Tools I Have Used and Learned :
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,pytorch,git,vscode" />
 </p>
-
-- PyTorch Geometric
-- RDKit
-- Machine Learning
-- Deep Learning
-- Graph Neural Networks
 
 ---
 
