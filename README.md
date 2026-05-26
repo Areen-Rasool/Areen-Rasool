@@ -1,3 +1,6 @@
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/350fcda0-137e-4a43-b777-143d63a73f50" />
+
+
 ## 👩‍💻 About Me
 
 🎓 PhD Researcher in Computational Mathematics and Artificial Intelligence  
