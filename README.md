@@ -1,5 +1,5 @@
 
-#### 👩‍💻 About Me:
+### 👩‍💻 About Me:
 
 🎓 PhD Researcher in Computational Mathematics and Artificial Intelligence  
 
@@ -20,7 +20,7 @@
 ---
 
 
-### 🚀 Some Tools I Have Used and Learned :
+### 🚀 Some Tools I Have Used and Learned:
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,anaconda,vscode,github" />
