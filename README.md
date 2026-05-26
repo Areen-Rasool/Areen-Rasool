@@ -1,22 +1,6 @@
 
-from PIL import Image
 
-img = Image.open("image.png")
-
-frames = []
-for i in range(10):
-    scale = 1 + i * 0.02
-    frame = img.resize((int(img.width * scale), int(img.height * scale)))
-    frames.append(frame)
-
-frames[0].save(
-    "animated.gif",
-    save_all=True,
-    append_images=frames[1:],
-    duration=100,
-    loop=0
-)
-
+![demo](your_gif_link_or_path.gif)
 
 ### 👩‍💻 About Me
 
