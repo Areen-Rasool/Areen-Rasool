@@ -1,3 +1,12 @@
+
+## 👩‍💻 About Me
+
+🎓 PhD Researcher in Computational Mathematics and AI  
+
+🧬 Working on:
+Developing efficient and reliable Graph Neural Networks (GNNs) models for biomdecal applications in Drug Discovery. 
+
+📫 Reach me at:
 <p align="center">
   <a href="https://orcid.org/0009-0005-0915-1168">
     <img src="https://img.shields.io/badge/ORCID-0009--0005--0915--1168-green?style=for-the-badge&logo=orcid">
@@ -8,24 +17,6 @@
   </a>
 </p>
 
-## 👩‍💻 About Me
-
-🎓 PhD Researcher in Computational Mathematics and AI  
-
-🧬 Working on:
-- Graph Neural Networks (GNNs)
-- Compound–Protein Interaction Prediction
-- Molecular Property Prediction
-- Efficient AI Models
-
-🔬 Research focus:
-- Drug Discovery
-- Geometric Deep Learning
-- Quantized GNNs
-- Optimization in Deep Learning
-
-📫 Reach me at:
-**areen_rasool_22@sms.edu.pk**
 
 ---
 
