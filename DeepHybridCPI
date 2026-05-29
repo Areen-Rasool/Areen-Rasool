@@ -1,0 +1,34 @@
+# DeepHybridCPI
+
+A hybrid deep learning framework for predicting compound–protein interactions.
+
+---
+
+## 🧬 Framework Architecture
+
+<div align="center">
+<img src="./Figures/DeepHybridCPI.png" width="700">
+<br>
+<em>Figure 1: DeepHybridCPI Framework for Compound–Protein Interaction Prediction</em>
+</div>
+
+---
+
+## 🚀 Overview
+
+Combines:
+- Graph Neural Networks for compounds
+- Sequence-based encoding for proteins
+- Fully connected interaction layers
+
+Goal:
+Improve prediction accuracy for drug-target binding affinity.
+
+---
+
+## 🔬 My Contributions
+
+- Implemented preprocessing pipeline for molecular data
+- Assisted in training pipeline setup
+- Experimented with model hyperparameters
+- Evaluated model performance on benchmark datasets
