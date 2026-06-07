@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-🎓 Doctoral Researcher in Computational Mathematics and Artificial Intelligence  
+🎓 Researcher in Computational Mathematics and Artificial Intelligence  
 
 🧬 Developing efficient and reliable Graph Neural Network models for biomedical applications in drug discovery  
 
